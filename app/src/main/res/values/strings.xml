@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">segundograu</string>
+    <string name="A"> A: Digite um numero Decimal</string>
+    <string name="B"> B: Digite um numero decimal</string>
+    <string name="C"> C: Digite um numero decimal</string>
+    <string name="delta"> O valor de delta é =</string>
+    <string name="erro"> O erro: </string>
+    <string name="x1"> O valor de x1 é =</string>
+    <string name="x2"> O valor de x2 é =</string>
+    <string name="Calcular"> Calcular</string>
+</resources>
